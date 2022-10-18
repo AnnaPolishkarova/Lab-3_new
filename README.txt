@@ -1,3 +1,4 @@
-Установить графический интерфейс для Git (GitGui, GitKraken … ).  
-Продемонстрировать взаимодействие локального репозитория и системы через графический интерфейс. 
-Показать не менее 10 команд (можно посмотреть из 2 лекции по гиту) в графическом интерфейсе (Куда нажимать, результат).
+Install a GUI for Git (GitGui, GitKraken...).
+Demonstrate the interaction of the local repository and the system through a graphical interface.
+Show at least 10 commands (can be viewed from 2 git lectures) in the GUI (Where to click, result).
+Add screenshots
